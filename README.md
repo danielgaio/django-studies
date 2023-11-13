@@ -14,6 +14,6 @@ To accept connections from any IP address:
 
 > python manage.py runserver 0.0.0.0:8000
 
-## Start an app on the project
+## Create a new app on the project
 
 > python manage.py startapp polls
