@@ -47,3 +47,8 @@ The number at the end is the migration number
 # Creating an admin user to access the admin page
 
 > python manage.py createsuperuser
+
+# Run tests
+Will run tests for INSTALLED_APPS in settings.py. Will run all tests in the tests.py file.
+
+> python manage.py test <app_name>
