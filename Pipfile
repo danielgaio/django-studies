@@ -8,6 +8,7 @@ django = "*"
 pylint-django = "*"
 pylint = "*"
 pytest = "*"
+django-debug-toolbar = "*"
 
 [dev-packages]
 
